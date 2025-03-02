@@ -1,2 +1,5 @@
-# fs-open
-Exercises from fullstackopen course
+# Fullstackopen exercises
+
+## Part 0 - Fundamentals of web apps
+
+
