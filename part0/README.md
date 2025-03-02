@@ -18,7 +18,7 @@ Create a diagram depicting the situation where the user goes to the single-page 
 
 ### Solution:
 
-![Exercise 0.5 Diagram](ex05.png)
+![Exercise 0.5 Diagram](ex05.PNG)
 
 ## Exercise 0.6
 
@@ -26,4 +26,4 @@ Create a diagram depicting the situation where the user creates a new note using
 
 ### Solution:
 
-![Exercise 0.6 Diagram](ex06.png)
+![Exercise 0.6 Diagram](ex06.PNG)
